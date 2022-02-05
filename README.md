@@ -43,7 +43,7 @@ Part C. Traducció automàtica neuronal - Marian i OpenNMT
 
 Part D. Avaluació automàtica de sistemes de traducció automàtica - MTUOC-eval
 
-Part E. Avaluació humana de traducció automàtica - PosEdiOn
+Part E. Avaluació humana de sistemes de traducció automàtica - PosEdiOn
 
 Part F. Integració de traducció automàtica en entorns de traducció professional
 
@@ -61,3 +61,30 @@ Annex 6. Marian: obtenció, compil·lació i instal·lació
 
 Annex 7. OpenNMT: obtenció i instal·lació
 
+## Índice
+
+Parte A. Traducción automática basada en reglas - Apertium
+
+Parte B. Traducción automática estadística - Moses
+
+Parte C. Traducción automática neuronal - Marian y OpenNMT
+
+Parte D. Evaluación automática de sistemas de traducción automática - MTUOC-eval
+
+Parte E. Evaluación humana de sistemas de traducción automática - PosEdiOn
+
+Parte F. Integración de traducción automática en entornos de traducción profesional
+
+Anexo 1. Utilizando Linux en tu ordenador
+
+Anexo 2. Instrucciones básicas de Unix
+
+Anexo 3. Corpus paralelos: obtención, creación y preprocesamiento
+
+Anexo 4. Corpus monolingües y comparables: obtención, creación y preprocesamiento
+
+Anexo 5. Moses: obtención, compilación e instalación
+
+Anexo 6. Marian: obtención, compilación e instalación
+
+Anexo 7. OpenNMT: obtención e instalación
