@@ -77,7 +77,7 @@ Parte F. Integración de traducción automática en entornos de traducción prof
 
 Anexo 1. Utilizando Linux en tu ordenador
 
-Anexo 2. Instrucciones básicas de Unix
+[Anexo 2. Instrucciones básicas de Unix](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Annex-2.-Instruccions-b%C3%A0siques-de-Unix)
 
 Anexo 3. Corpus paralelos: obtención, creación y preprocesamiento
 
