@@ -12,7 +12,7 @@ Part B. Statistical Machine Translation - Moses
 
 Part C. Neural Machine Translation - Marian and OpenNMT
 
-Part D. Automatic Machine Translation evaluation - MTUOC-eval
+[Part D. Automatic Machine Translation evaluation - MTUOC-eval](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Part-D.-Automatic-Machine-Translation-evaluation---MTUOC-eval)
 
 Part E. Human Machine Translation evaluation - PosEdiOn
 
