@@ -22,7 +22,7 @@ Annex 1. Using Linux in your computer
 
 Annex 2. Basic Unix commands
 
-Annex 3. Paral·lel corpora: obtaining, creating and preprocessing
+Annex 3. Paral·lel corpora: obtaining and preprocessing
 
 Annex 4. Monolingual and comparable corpora: obtaining, creating and preprocessing
 
@@ -51,7 +51,7 @@ Annex 1. Fent servir Linux en el teu ordinador
 
 [Annex 2. Instruccions bàsiques de Unix](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Anexo-2.-Instrucciones-b%C3%A1sicas-de-Unix)
 
-Annex 3. Corpus paral·lels: obtenció, creació i preprocessament
+Annex 3. Corpus paral·lels: obtenció i preprocessament
 
 Annex 4. Corpus monolingües i comparables: obtenció, creació i preprocessament
 
@@ -79,7 +79,7 @@ Parte F. Integración de traducción automática en entornos de traducción prof
 
 [Anexo 2. Instrucciones básicas de Unix](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Annex-2.-Instruccions-b%C3%A0siques-de-Unix)
 
-Anexo 3. Corpus paralelos: obtención, creación y preprocesamiento
+Anexo 3. Corpus paralelos: obtención y preprocesamiento
 
 Anexo 4. Corpus monolingües y comparables: obtención, creación y preprocesamiento
 
