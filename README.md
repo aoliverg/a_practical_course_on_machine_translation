@@ -79,7 +79,7 @@ Parte F. Integración de traducción automática en entornos de traducción prof
 
 [Anexo 2. Instrucciones básicas de Unix](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Annex-2.-Instruccions-b%C3%A0siques-de-Unix)
 
-Anexo 3. Corpus paralelos: obtención y preprocesamiento
+[Anexo 3. Corpus paralelos: obtención y preprocesamiento](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Anexo-3.-Corpus-paralelos:-obtenci%C3%B3n-y-preprocesamiento)
 
 Anexo 4. Corpus monolingües y comparables: obtención, creación y preprocesamiento
 
