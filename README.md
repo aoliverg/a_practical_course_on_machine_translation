@@ -63,7 +63,7 @@ Annex 7. OpenNMT: obtenció i instal·lació
 
 ## Índice
 
-[Parte A. Traducción automática basada en reglas - Apertium](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Part-A.-Traducci%C3%B3-autom%C3%A0tica-basada-en-regles---Apertium)
+[Parte A. Traducción automática basada en reglas - Apertium](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Parte-A.-Traducci%C3%B3n-autom%C3%A1tica-basada-en-reglas:---Apertium)
 
 Parte B. Traducción automática estadística - Moses
 
