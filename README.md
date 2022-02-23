@@ -32,6 +32,8 @@ Annex 6. Marian: obtaining, compiling and creting
 
 Annex 7. OpenNMT: obtaning and installing
 
+[Annez Z. MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List)
+
 
 ## Índex
 
@@ -61,6 +63,8 @@ Annex 6. Marian: obtenció, compil·lació i instal·lació
 
 Annex 7. OpenNMT: obtenció i instal·lació
 
+[Annez Z. MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List)
+
 ## Índice
 
 [Parte A. Traducción automática basada en reglas - Apertium](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Parte-A.-Traducci%C3%B3n-autom%C3%A1tica-basada-en-reglas:---Apertium)
@@ -86,5 +90,7 @@ Anexo 4. Corpus monolingües y comparables: obtención, creación y preprocesami
 Anexo 5. Moses: obtención, compilación e instalación
 
 Anexo 6. Marian: obtención, compilación e instalación
+
+[Annez Z. MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List)
 
 Anexo 7. OpenNMT: obtención e instalación
