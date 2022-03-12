@@ -2,38 +2,35 @@
 # Curs pràctic de Traducció Automàtica
 # Curso práctico de Traducción Automática
 
-This is the repository for the Practical Course on Machine Translation by Antoni Oliverf (UOC - Universitat Oberta de Catalunya). The course materials are published in three languages: English, Catalan and Spanish.
+This is the repository for the Practical Course on Machine Translation by Antoni Oliverf (UOC - Universitat Oberta de Catalunya). The course materials are published in three languages: Spanish, Catalan and English.
 
-## Table of contents
+## Índice
 
-Part A. Rule Based Machine Translation - Apertium
+[Parte A. Traducción automática basada en reglas - Apertium](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Part-A.-Traducci%C3%B3-autom%C3%A0tica-basada-en-regles---Apertium)
 
-Part B. Statistical Machine Translation - Moses
+[Parte B. Traducción automática estadística - Moses](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Parte-B.-Traducci%C3%B3n-autom%C3%A1tica-estad%C3%ADstica---Moses)
 
-Part C. Neural Machine Translation - Marian and OpenNMT
+Parte C. Traducción automática neuronal - Marian y OpenNMT
 
-[Part D. Automatic Machine Translation evaluation - MTUOC-eval](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Part-D.-Automatic-Machine-Translation-evaluation---MTUOC-eval)
+[Parte D. Evaluación automática de sistemas de traducción automática - MTUOC-eval](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Parte-D.-Evaluaci%C3%B3n-autom%C3%A1tica-de-sistemas-de-traducci%C3%B3n-autom%C3%A1tica---MTUOC-eval)
 
-Part E. Human Machine Translation evaluation - PosEdiOn
+Parte E. Evaluación humana de sistemas de traducción automática - PosEdiOn
 
-Part F. Integration of Machine Translation in professional translation environments
+[Parte F. Integración de traducción automática en entornos de traducción profesional](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/F.-Integraci%C3%B3n-de-traducci%C3%B3n-autom%C3%A1tica-con-MTUOC-en-entornos-de-traducci%C3%B3n-profesional)
 
-Annex 1. Using Linux in your computer
+[Anexo 1. Utilizando Linux en tu ordenador](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Anexo-1.-Utilizando-Linux-en-tu-ordenador)
 
-Annex 2. Basic Unix commands
+[Anexo 2. Instrucciones básicas de Unix](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Annex-2.-Instruccions-b%C3%A0siques-de-Unix)
 
-Annex 3. Paral·lel corpora: obtaining and preprocessing
+[Anexo 3. Corpus paralelos: obtención y preprocesamiento](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Anexo-3.-Corpus-paralelos:-obtenci%C3%B3n-y-preprocesamiento)
 
-Annex 4. Monolingual and comparable corpora: obtaining, creating and preprocessing
+Anexo 4. Corpus monolingües y comparables: obtención, creación y preprocesamiento
 
-Annex 5. Moses: obtaining, compiling and installing
+Anexo 5. Moses: obtención, compilación e instalación
 
-Annex 6. Marian: obtaining, compiling and creting
+Anexo 6. Marian: obtención, compilación e instalación
 
-Annex 7. OpenNMT: obtaning and installing
-
-[Annez Z. MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List)
-
+Anexo 7. OpenNMT: obtención e instalación
 
 ## Índex
 
@@ -63,34 +60,39 @@ Annex 6. Marian: obtenció, compil·lació i instal·lació
 
 Annex 7. OpenNMT: obtenció i instal·lació
 
-[Annez Z. MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List)
 
-## Índice
+## Table of contents
 
-[Parte A. Traducción automática basada en reglas - Apertium](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Parte-A.-Traducci%C3%B3n-autom%C3%A1tica-basada-en-reglas:---Apertium)
+Part A. Rule Based Machine Translation - Apertium
 
-Parte B. Traducción automática estadística - Moses
+Part B. Statistical Machine Translation - Moses
 
-Parte C. Traducción automática neuronal - Marian y OpenNMT
+Part C. Neural Machine Translation - Marian and OpenNMT
 
-[Parte D. Evaluación automática de sistemas de traducción automática - MTUOC-eval](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Parte-D.-Evaluaci%C3%B3n-autom%C3%A1tica-de-sistemas-de-traducci%C3%B3n-autom%C3%A1tica---MTUOC-eval)
+[Part D. Automatic Machine Translation evaluation - MTUOC-eval](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Part-D.-Automatic-Machine-Translation-evaluation---MTUOC-eval)
 
-Parte E. Evaluación humana de sistemas de traducción automática - PosEdiOn
+Part E. Human Machine Translation evaluation - PosEdiOn
 
-Parte F. Integración de traducción automática en entornos de traducción profesional
+Part F. Integration of Machine Translation in professional translation environments
 
-[Anexo 1. Utilizando Linux en tu ordenador](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Anexo-1.-Utilizando-Linux-en-tu-ordenador)
+Annex 1. Using Linux in your computer
 
-[Anexo 2. Instrucciones básicas de Unix](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Anexo-2.-Instrucciones-b%C3%A1sicas-de-Unix)
+Annex 2. Basic Unix commands
 
-[Anexo 3. Corpus paralelos: obtención y preprocesamiento](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Anexo-3.-Corpus-paralelos:-obtenci%C3%B3n-y-preprocesamiento)
+Annex 3. Paral·lel corpora: obtaining and preprocessing
 
-Anexo 4. Corpus monolingües y comparables: obtención, creación y preprocesamiento
+Annex 4. Monolingual and comparable corpora: obtaining, creating and preprocessing
 
-Anexo 5. Moses: obtención, compilación e instalación
+Annex 5. Moses: obtaining, compiling and installing
 
-Anexo 6. Marian: obtención, compilación e instalación
+Annex 6. Marian: obtaining, compiling and creting
 
-[Annez Z. MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List)
+Annex 7. OpenNMT: obtaning and installing
 
-Anexo 7. OpenNMT: obtención e instalación
+
+
+
+
+
+
+
