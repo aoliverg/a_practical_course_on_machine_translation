@@ -40,7 +40,7 @@ Part B. Traducció automàtica estadísticaa - Moses
 
 Part C. Traducció automàtica neuronal - Marian i OpenNMT
 
-Part D. Avaluació automàtica de sistemes de traducció automàtica - MTUOC-eval
+[Part D. Avaluació automàtica de sistemes de traducció automàtica - MTUOC-eval](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Part-D.-Avaluaci%C3%B3-autom%C3%A0tica-de-sistemes-de-traducci%C3%B3-autom%C3%A0tica---MTUOC-eval)
 
 Part E. Avaluació humana de sistemes de traducció automàtica - PosEdiOn
 
