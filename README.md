@@ -10,7 +10,7 @@ This is the repository for the Practical Course on Machine Translation by Antoni
 
 [Parte B. Traducción automática estadística - Moses](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Parte-B.-Traducci%C3%B3n-autom%C3%A1tica-estad%C3%ADstica---Moses)
 
-Parte C. Traducción automática neuronal - Marian y OpenNMT
+[Parte C. Traducción automática neuronal - Marian y OpenNMT](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Parte-C.-Traducci%C3%B3n-autom%C3%A1tica-neuronal---Marian-y-OpenNMT)
 
 [Parte D. Evaluación automática de sistemas de traducción automática - MTUOC-eval](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Parte-D.-Evaluaci%C3%B3n-autom%C3%A1tica-de-sistemas-de-traducci%C3%B3n-autom%C3%A1tica---MTUOC-eval)
 
