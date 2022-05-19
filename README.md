@@ -65,7 +65,7 @@ Annex 7. OpenNMT: obtenció i instal·lació
 
 Part A. Rule Based Machine Translation - Apertium
 
-Part B. Statistical Machine Translation - Moses
+[Part B. Statistical Machine Translation - Moses](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Part-B.-Statistical-Machine-Translation---Moses)
 
 Part C. Neural Machine Translation - Marian and OpenNMT
 
