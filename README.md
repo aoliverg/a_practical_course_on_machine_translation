@@ -36,7 +36,7 @@ Anexo 7. OpenNMT: obtención e instalación
 
 Part A. Traducció automàtica basada en regles - Apertium
 
-Part B. Traducció automàtica estadística - Moses
+[Part B. Traducció automàtica estadística - Moses](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Part-B.-Traducci%C3%B3-autom%C3%A0tica-estad%C3%ADstica---Moses)
 
 Part C. Traducció automàtica neuronal - Marian i OpenNMT
 
