@@ -18,6 +18,8 @@ Parte E. Evaluación humana de sistemas de traducción automática - PosEdiOn
 
 [Parte F. Integración de traducción automática en entornos de traducción profesional](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/F.-Integraci%C3%B3n-de-traducci%C3%B3n-autom%C3%A1tica-con-MTUOC-en-entornos-de-traducci%C3%B3n-profesional)
 
+Parte G. ModernMT
+
 [Anexo 1. Utilizando Linux en tu ordenador](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Anexo-1.-Utilizando-Linux-en-tu-ordenador)
 
 [Anexo 2. Instrucciones básicas de Unix](https://github.com/aoliverg/a_practical_course_on_machine_translation/wiki/Annex-2.-Instruccions-b%C3%A0siques-de-Unix)
